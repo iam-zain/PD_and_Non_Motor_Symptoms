@@ -9,11 +9,11 @@ Analyzing non-motor symptoms and DNA methylation data of Parkinsons Disease pati
 
 #### What programming languages have been used?
 
-We have used R and Python programming language for our this study.
+R and Python programming language have been used in this study.
 
 #### What IDEs have been used?
 
-We have used R-Studio for R and Jupyter for Python.
+R-Studio for R and Jupyter for Python are being used.
 
 ## Authors
 
