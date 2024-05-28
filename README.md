@@ -1,5 +1,5 @@
 
-# Project PD-GENDER
+# Project: Predicting Parkinson’s disease from non-motor symptoms and their association with DNA methylation
 
 Gender-based Evaluation of Non-motor symptoms with DNA Epigenetic Regulation.
 
