@@ -1,9 +1,8 @@
 
-# Project: Predicting Parkinson’s disease from non-motor symptoms and their association with DNA methylation
+# Project: Smell Loss as Biologically Informed Indicator of Parkinson’s Disease
 
-Gender-based Evaluation of Non-motor symptoms with DNA Epigenetic Regulation.
-
-Analyzing non-motor symptoms and DNA methylation data of Parkinsons Disease patients. Deploying machine learning methods to predict the disease using these data.
+This repository contains the codes used in our study. The project applies machine learning for non-motor symptom prioritization, and utilizes transcriptomic and DNA methylation analyses to uncover molecular links with olfactory dysfunction. 
+Scripts here include feature selection, classification modeling, SHAP interpretation, and WGCNA for gene module discovery. The aim is to provide reproducible workflows that connect clinical data with underlying biology in Parkinson’s disease.
 
 ## FAQ
 
@@ -14,6 +13,15 @@ R and Python programming language have been used in this study.
 #### What IDEs have been used?
 
 R-Studio for R and Jupyter for Python are being used.
+
+#### What types of data were analyzed?
+
+Clinical data (non-motor symptoms), transcriptomic (RNA-seq), and DNA methylation datasets from the PPMI database.
+
+#### Which machine learning methods were applied?
+
+Feature selection methods (Decision Tree, Random Forest, Boruta, NMI), Random Forest classifier, and SHAP values for feature interpretation.
+
 
 ## Authors
 
