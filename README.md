@@ -25,8 +25,9 @@ Feature selection methods (Decision Tree, Random Forest, Boruta, NMI), Random Fo
 
 ## Authors
 
-- [Md Zainul Ali](https://www.github.com/iam-zain)
-- [Dr Pankaj Singh Dholaniya](https://www.github.com/)
+- [Md Zainul Ali]([https://www.github.com/iam-zain](https://scholar.google.com/citations?user=AMzPqiYAAAAJ&hl=en))
+- [Dr Manjari Kiran]([https://www.github.com/](https://scholar.google.com/citations?user=KBmsOl8AAAAJ&hl=fr))
+- [Dr Pankaj Singh Dholaniya]([https://www.github.com/](https://scholar.google.com/citations?user=h_tFfq8AAAAJ&hl=en))
 
 ## Query
 
